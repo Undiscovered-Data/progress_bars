@@ -1,0 +1,3 @@
+There are two files, your_bar.py and your_code.py. The file your_code.py
+ illustrates how you should call and import the file your_bar.py. If you
+keep your code in the same file as your_bar.py it will work.
