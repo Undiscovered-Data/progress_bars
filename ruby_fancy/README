@@ -1,0 +1,3 @@
+There are two files, YourBar.rb and your_code.rb. The file your_code.rb
+illustrates how you should call and import the file YourBar.rb. If you
+keep your code in the same file as YouBar.rb it will work.
