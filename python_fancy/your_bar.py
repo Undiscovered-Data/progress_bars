@@ -3,7 +3,7 @@
 import sys
 
 def start_it():
-    print("\n  ***            Percent Complete                ***")
+    print("\n  ***   **       Percent Complete           **   ***")
     print("  |                                                |")
     print("  0% ################## 50% ################### 100%")
     print("  |                                                |")
