@@ -1,8 +1,8 @@
 
-println("  ***              Percent Complete                 ***")
-println("  |                                                   |")
-println("  0% #################### 50% #################### 100%")
-println("  |                                                   |")
+println("  ***              Percent Complete               ***")
+println("  |                                                 |")
+println("  0% #################### 50% ################## 100%")
+println("  |                                                 |")
 
 print("  ")
 for a in 1:50
