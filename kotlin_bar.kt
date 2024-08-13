@@ -1,5 +1,6 @@
 
 fun main(args : Array<String>) {
+	println("\n")
 	println("   ***                   Percent Complete                   ***")
 	println("   |                                                          |")
 	println("   0%                         50%                          100%")
@@ -10,5 +11,5 @@ fun main(args : Array<String>) {
 		Thread.sleep(300)
 		print("*")
 	}
-	print("\n")
+	print("\n\n\n")
 }
